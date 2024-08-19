@@ -34,7 +34,7 @@ def main():
             code_execution_config={
                 "work_dir": "coding",
                 "use_docker": False
-            }
+            },
         )
 
         # Attempt to initiate chat.
