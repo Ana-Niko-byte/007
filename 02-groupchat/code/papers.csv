@@ -1,0 +1,601 @@
+Title,Authors,Abstract,Categories
+"Title:
+          A Hassle-free Algorithm for Private Learning in Practice: Don't Use Tree Aggregation, Use BLTs","H. Brendan McMahan, Zheng Xu, Yanxiang Zhang",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Visual Agents as Fast and Slow Thinkers","Guangyan Sun, Mingyu Jin, Zhenting Wang, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Stochastic Bandits Robust to Adversarial Attacks","Xuchuang Wang, Jinhang Zuo, Xutong Liu, John C.S. Lui, Mohammad Hajiesmaili",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Entropy Coding of Unordered Data Structures","Julius Kunze, Daniel Severo, Giulio Zani, Jan-Willem van de Meent, James Townsend",N/A,"Subjects:
+Machine Learning (cs.LG); Data Structures and Algorithms (cs.DS); Information Theory (cs.IT)"
+"Title:
+          LEVIS: Large Exact Verifiable Input Spaces for Neural Networks","Mohamad Fares El Hajj Chehade, Brian Wesley Bell, Russell Bent, Hao Zhu, Wenting Li",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Optimal Symmetries in Binary Classification","Vishal S. Ngairangbam, Michael Spannowsky",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Data Analysis, Statistics and Probability (physics.data-an); Machine Learning (stat.ML)"
+"Title:
+          An Empirical Examination of Balancing Strategy for Counterfactual Estimation on Time Series","Qiang Huang, Chuizheng Meng, Defu Cao, Biwei Huang, Yi Chang, Yan Liu",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          CAT: Caution Aware Transfer in Reinforcement Learning via Distributional Risk","Mohamad Fares El Hajj Chehade, Amrit Singh Bedi, Amy Zhang, Hao Zhu",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Constructing Domain-Specific Evaluation Sets for LLM-as-a-judge","Ravi Raju, Swayambhoo Jain, Bo Li, Jonathan Li, Urmish Thakkar",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          Representation Learning of Geometric Trees","Zheng Zhang, Allen Zhang, Ruth Nelson, Giorgio Ascoli, Liang Zhao",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Neighbor Overlay-Induced Graph Attention Network","Tiqiao Wei, Ye Yuan",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          NEAR: A Training-Free Pre-Estimator of Machine Learning Model Performance","Raphael T. Husistein, Markus Reiher, Marco Eckhoff",N/A,"Subjects:
+Machine Learning (cs.LG); Disordered Systems and Neural Networks (cond-mat.dis-nn); Chemical Physics (physics.chem-ph); Data Analysis, Statistics and Probability (physics.data-an)"
+"Title:
+          Speckle Noise Analysis for Synthetic Aperture Radar (SAR) Space Data","Sanjjushri Varshini R, Rohith Mahadevan, Bagiya Lakshmi S, Mathivanan Periasamy, Raja CSP Raman, Lokesh M",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          SYMPOL: Symbolic Tree-Based On-Policy Reinforcement Learning","Sascha Marton, Tim Grams, Florian Vogt, Stefan Lüdtke, Christian Bartelt, Heiner Stuckenschmidt",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          SE-SGformer: A Self-Explainable Signed Graph Transformer for Link Sign Prediction","Lu Li, Jiale Liu, Xingyu Ji, Maojun Wang, Zeyu Zhang",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Beyond KAN: Introducing KarSein for Adaptive High-Order Feature Interaction Modeling in CTR Prediction","Yunxiao Shi, Wujiang Wu, Mingyu Jin, Haimin Zhang, Qiang Wu, Yongfeng Zhang, Min Xu",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Information Retrieval (cs.IR)"
+"Title:
+          Beam Prediction based on Large Language Models","Yucheng Sheng, Kai Huang, Le Liang, Peng Liu, Shi Jin, Geoffrey Ye Li",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          Efficient Multi-Policy Evaluation for Reinforcement Learning","Shuze Liu, Yuxin Chen, Shangtong Zhang",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          RBLA: Rank-Based-LoRA-Aggregation for Fine-tuning Heterogeneous Models in FLaaS","Shuaijun Chen, Omid Tavallaie, Niousha Nazemi, Albert Y. Zomaya",N/A,"Subjects:
+Machine Learning (cs.LG); Distributed, Parallel, and Cluster Computing (cs.DC)"
+"Title:
+          Explore-then-Commit Algorithms for Decentralized Two-Sided Matching Markets","Tejas Pagare, Avishek Ghosh",N/A,"Subjects:
+Machine Learning (cs.LG); Computer Science and Game Theory (cs.GT); General Economics (econ.GN); Machine Learning (stat.ML)"
+"Title:
+          Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?","Zhongjian Zhang, Xiao Wang, Huichi Zhou, Yue Yu, Mengmei Zhang, Cheng Yang, Chuan Shi",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computers and Society (cs.CY); Social and Information Networks (cs.SI)"
+"Title:
+          Research on Personalized Compression Algorithm for Pre-trained Models Based on Homomorphic Entropy Increase","Yicong Li, Xing Guo, Haohua Du",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          A Mean Field Ansatz for Zero-Shot Weight Transfer","Xingyuan Chen, Wenwei Kuang, Lei Deng, Wei Han, Bo Bai, Goncalo dos Reis",N/A,"Subjects:
+Machine Learning (cs.LG); Numerical Analysis (math.NA); Probability (math.PR)"
+"Title:
+          Neural Reward Machines","Elena Umili, Francesco Argenziano, Roberto Capobianco",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          A Multivocal Literature Review on Privacy and Fairness in Federated Learning","Beatrice Balbierer, Lukas Heinlein, Domenique Zipperling, Niklas Kühl",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          Mitigating Backdoor Attacks in Federated Learning via Flipping Weight Updates of Low-Activation Input Neurons","Binbin Ding, Penghui Yang, Zeqing Ge, Shengjun Huang",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          TextCAVs: Debugging vision models using text","Angus Nicolson, Yarin Gal, J. Alison Noble",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Human-Computer Interaction (cs.HC)"
+"Title:
+          The Power of Bias: Optimizing Client Selection in Federated Learning with Heterogeneous Differential Privacy","Jiating Ma, Yipeng Zhou, Qi Li, Quan Z. Sheng, Laizhong Cui, Jiangchuan Liu",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Navigating Uncertainties in Machine Learning for Structural Dynamics: A Comprehensive Review of Probabilistic and Non-Probabilistic Approaches in Forward and Inverse Problems","Wang-Ji Yan (1 and 2), Lin-Feng Mei (1), Jiang Mo (1), Costas Papadimitriou (3), Ka-Veng Yuen (1 and 2), Michael Beer (4,5, and 6) ((1) State Key Laboratory of Internet of Things for Smart City and Department of Civil and Environmental Engineering, University of Macau, (2) Guangdong-Hong Kong-Macau Joint Laboratory for Smart Cities, China, (3) Department of Mechanical Engineering, University of Thessaly, (4) Leibniz University Hannover, Institute for Risk and Reliability, (5) Department of Civil and Environmental Engineering, University of Liverpool, (6) International Joint Research Center for Resilient Infrastructure &amp; International Joint Research Center for Engineering Reliability and Stochastic Mechanics, Tongji University)",N/A,"Subjects:
+Machine Learning (cs.LG); Dynamical Systems (math.DS)"
+"Title:
+          A survey on secure decentralized optimization and learning","Changxin Liu, Nicola Bastianello, Wei Huo, Yang Shi, Karl H. Johansson",N/A,"Subjects:
+Machine Learning (cs.LG); Optimization and Control (math.OC)"
+"Title:
+          DeepDFA: Automata Learning through Neural Probabilistic Relaxations","Elena Umili, Roberto Capobianco",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction","Xiucheng Wang, Keda Tao, Nan Cheng, Zhisheng Yin, Zan Li, Yuan Zhang, Xuemin Shen",N/A,"Subjects:
+Machine Learning (cs.LG); Systems and Control (eess.SY)"
+"Title:
+          GrassNet: State Space Model Meets Graph Neural Network","Gongpei Zhao, Tao Wang, Yi Jin, Congyan Lang, Yidong Li, Haibin Ling",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          S$^3$Attention: Improving Long Sequence Attention with Smoothed Skeleton Sketching","Xue Wang, Tian Zhou, Jianqing Zhu, Jialin Liu, Kun Yuan, Tao Yao, Wotao Yin, Rong Jin, HanQin Cai",N/A,"Subjects:
+Machine Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV); Image and Video Processing (eess.IV); Machine Learning (stat.ML)"
+"Title:
+          ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models","Chao Zeng, Songwei Liu, Yusheng Xie, Hong Liu, Xiaojian Wang, Miao Wei, Shu Yang, Fangmin Chen, Xing Mei",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Detecting Unsuccessful Students in Cybersecurity Exercises in Two Different Learning Environments","Valdemar Švábenský, Kristián Tkáčik, Aubrey Birdwell, Richard Weiss, Ryan S. Baker, Pavel Čeleda, Jan Vykopal, Jens Mache, Ankur Chattopadhyay",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Cryptography and Security (cs.CR); Computers and Society (cs.CY)"
+"Title:
+          Inverse design with conditional cascaded diffusion models","Milad Habibi, Mark Fuge",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Mitigating Degree Bias in Signed Graph Neural Networks","Fang He, Jinhai Deng, Ruizhan Xue, Maojun Wang, Zeyu Zhang",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          The Limitations of Model Retraining in the Face of Performativity","Anmol Kabra, Kumar Kshitij Patel",N/A,"Subjects:
+Machine Learning (cs.LG); Computer Science and Game Theory (cs.GT)"
+"Title:
+          Fishers Harvest Parallel Unlearning in Inherited Model Networks","Xiao Liu, Mingyuan Li, Xu Wang, Guangsheng Yu, Wei Ni, Lixiang Li, Haipeng Peng, Renping Liu",N/A,"Subjects:
+Machine Learning (cs.LG); Machine Learning (stat.ML)"
+"Title:
+          Adversarial Contrastive Learning Based Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation","Rui Wang, Mengshi Qi, Yingxia Shao, Anfu Zhou, Huadong Ma",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Signal Processing (eess.SP)"
+"Title:
+          Context-Aware Assistant Selection for Improved Inference Acceleration with Large Language Models","Jerry Huang, Prasanna Parthasarathi, Mehdi Rezagholizadeh, Sarath Chandar",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          Exploring Cross-model Neuronal Correlations in the Context of Predicting Model Performance and Generalizability","Haniyeh Ehsani Oskouie, Lionel Levine, Majid Sarrafzadeh",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Lifelong Reinforcement Learning via Neuromodulation","Sebastian Lee, Samuel Liebana Garcia, Claudia Clopath, Will Dabney",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          D5RL: Diverse Datasets for Data-Driven Deep Reinforcement Learning","Rafael Rafailov, Kyle Hatch, Anikait Singh, Laura Smith, Aviral Kumar, Ilya Kostrikov, Philippe Hansen-Estruch, Victor Kolev, Philip Ball, Jiajun Wu, Chelsea Finn, Sergey Levine",N/A,"Subjects:
+Machine Learning (cs.LG); Robotics (cs.RO)"
+"Title:
+          Random Gradient Masking as a Defensive Measure to Deep Leakage in Federated Learning","Joon Kim, Sejin Park",N/A,"Subjects:
+Machine Learning (cs.LG); Cryptography and Security (cs.CR)"
+"Title:
+          An Efficient and Explainable Transformer-Based Few-Shot Learning for Modeling Electricity Consumption Profiles Across Thousands of Domains","Weijie Xia, Gao Peng, Chenguang Wang, Peter Palensky, Eric Pauwels, Pedro P. Vergara",N/A,"Subjects:
+Machine Learning (cs.LG); Systems and Control (eess.SY)"
+"Title:
+          METR: Image Watermarking with Large Number of Unique Messages","Alexander Varlamov, Daria Diatlova, Egor Spirin",N/A,"Subjects:
+Machine Learning (cs.LG); Cryptography and Security (cs.CR); Computer Vision and Pattern Recognition (cs.CV)"
+"Title:
+          Activation Space Selectable Kolmogorov-Arnold Networks","Zhuoqin Yang, Jiansong Zhang, Xiaoling Luo, Zheng Lu, Linlin Shen",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Training Large-Scale Optical Neural Networks with Two-Pass Forward Propagation","Amirreza Ahmadnejad, Somayyeh Koohi",N/A,"Subjects:
+Machine Learning (cs.LG); Optics (physics.optics)"
+"Title:
+          Graph representations of 3D data for machine learning",Tomasz Prytuła,N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)"
+"Title:
+          Accelerating Giant Impact Simulations with Machine Learning","Caleb Lammers, Miles Cranmer, Sam Hadden, Shirley Ho, Norman Murray, Daniel Tamayo",N/A,"Subjects:
+Earth and Planetary Astrophysics (astro-ph.EP); Instrumentation and Methods for Astrophysics (astro-ph.IM); Machine Learning (cs.LG)"
+"Title:
+          PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars",Sumanth Prabhu,N/A,"Subjects:
+Computation and Language (cs.CL); Machine Learning (cs.LG)"
+"Title:
+          GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms","Yuhao Jia, Zile Wu, Shengao Yi, Yifei Sun",N/A,"Subjects:
+Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          HistoGym: A Reinforcement Learning Environment for Histopathological Image Analysis","Zhi-Bo Liu, Xiaobo Pang, Jizhao Wang, Shuai Liu, Chen Li",N/A,"Subjects:
+Image and Video Processing (eess.IV); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+"Title:
+          Shapley Marginal Surplus for Strong Models","Daniel de Marchi, Michael Kosorok, Scott de Marchi",N/A,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG)"
+"Title:
+          A Transparency Paradox? Investigating the Impact of Explanation Specificity and Autonomous Vehicle Perceptual Inaccuracies on Passengers","Daniel Omeiza, Raunak Bhattacharyya, Marina Jirotka, Nick Hawes, Lars Kunze",N/A,"Subjects:
+Human-Computer Interaction (cs.HC); Artificial Intelligence (cs.AI); Computers and Society (cs.CY); Machine Learning (cs.LG); Robotics (cs.RO)"
+"Title:
+          Pessimistic Iterative Planning for Robust POMDPs","Maris F. L. Galesloot, Marnix Suilen, Thiago D. Simão, Steven Carr, Matthijs T. J. Spaan, Ufuk Topcu, Nils Jansen",N/A,"Subjects:
+Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          ML Study of MaliciousTransactions in Ethereum",Natan Katz,N/A,"Subjects:
+Cryptography and Security (cs.CR); Machine Learning (cs.LG)"
+"Title:
+          Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling","Xianzhen Luo, Yixuan Wang, Qingfu Zhu, Zhiming Zhang, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che",N/A,"Subjects:
+Computation and Language (cs.CL); Machine Learning (cs.LG)"
+"Title:
+          Misclassification excess risk bounds for PAC-Bayesian classification via convexified loss",The Tien Mai,N/A,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG)"
+"Title:
+          A new perspective on Bayesian Operational Modal Analysis","Brandon J. O'Connell, Max D. Champneys, Timothy J. Rogers",N/A,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG); Systems and Control (eess.SY)"
+"Title:
+          MIA-Tuner: Adapting Large Language Models as Pre-training Text Detector","Wenjie Fu, Huandong Wang, Chen Gao, Guanghua Liu, Yong Li, Tao Jiang",N/A,"Subjects:
+Computation and Language (cs.CL); Cryptography and Security (cs.CR); Machine Learning (cs.LG)"
+"Title:
+          Modeling the Neonatal Brain Development Using Implicit Neural Representations","Florentin Bieder, Paul Friedrich, Hélène Corbaz, Alicia Durrer, Julia Wolleb, Philippe C. Cattin",N/A,"Subjects:
+Image and Video Processing (eess.IV); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+"Title:
+          Solving The Quantum Many-Body Hamiltonian Learning Problem with Neural Differential Equations","Timothy Heightman, Edward Jiang, Antonio Acín",N/A,"Subjects:
+Quantum Physics (quant-ph); Strongly Correlated Electrons (cond-mat.str-el); Machine Learning (cs.LG)"
+"Title:
+          Generative Dataset Distillation Based on Diffusion Model","Duo Su, Junjie Hou, Guang Li, Ren Togo, Rui Song, Takahiro Ogawa, Miki Haseyama",N/A,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          A Mechanistic Interpretation of Syllogistic Reasoning in Auto-Regressive Language Models","Geonhee Kim, Marco Valentino, André Freitas",N/A,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          OptDist: Learning Optimal Distribution for Customer Lifetime Value Prediction","Yunpeng Weng, Xing Tang, Zhenhao Xu, Fuyuan Lyu, Dugang Liu, Zexu Sun, Xiuqiang He",N/A,"Subjects:
+Information Retrieval (cs.IR); Machine Learning (cs.LG)"
+"Title:
+          S-RAF: A Simulation-Based Robustness Assessment Framework for Responsible Autonomous Driving","Daniel Omeiza, Pratik Somaiya, Jo-Ann Pattinson, Carolyn Ten-Holter, Jack Stilgoe, Marina Jirotka, Lars Kunze",N/A,"Subjects:
+Robotics (cs.RO); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Computers and Society (cs.CY); Machine Learning (cs.LG)"
+"Title:
+          A training regime to learn unified representations from complementary breast imaging modalities","Umang Sharma, Jungkyu Park, Laura Heacock, Sumit Chopra, Krzysztof Geras",N/A,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+"Title:
+          Linear combinations of latents in diffusion models: interpolation and beyond","Erik Bodin, Henry Moss, Carl Henrik Ek",N/A,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG)"
+"Title:
+          Where is the signal in tokenization space?","Renato Lui Geh, Honghua Zhang, Kareem Ahmed, Benjie Wang, Guy Van den Broeck",N/A,"Subjects:
+Computation and Language (cs.CL); Machine Learning (cs.LG)"
+"Title:
+          Blockchain-Enabled Accountability in Data Supply Chain: A Data Bill of Materials Approach","Yue Liu, Dawen Zhang, Boming Xia, Julia Anticev, Tunde Adebayo, Zhenchang Xing, Moses Machao",N/A,"Subjects:
+Software Engineering (cs.SE); Machine Learning (cs.LG)"
+"Title:
+          Unsupervised Transfer Learning via Adversarial Contrastive Training","Chenguang Duan, Yuling Jiao, Huazhen Lin, Wensen Ma, Jerry Zhijian Yang",N/A,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG)"
+"Title:
+          Optimal Sketching for Residual Error Estimation for Matrix and Vector Norms","Yi Li, Honghao Lin, David P.Woodruff",N/A,"Subjects:
+Data Structures and Algorithms (cs.DS); Machine Learning (cs.LG)"
+"Title:
+          An Unsupervised Learning Framework Combined with Heuristics for the Maximum Minimal Cut Problem","Huaiyuan Liu, Xianzhang Liu, Donghua Yang, Hongzhi Wang, Yingchi Long, Mengtong Ji, Dongjing Miao, Zhiyu Liang",N/A,"Subjects:
+Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          Enhancing Events in Neutrino Telescopes through Deep Learning-Driven Super-Resolution","Felix J. Yu, Nicholas Kamp, Carlos A. Argüelles",N/A,"Subjects:
+High Energy Physics - Experiment (hep-ex); Instrumentation and Methods for Astrophysics (astro-ph.IM); Machine Learning (cs.LG)"
+"Title:
+          JPEG-LM: LLMs as Image Generators with Canonical Codec Representations","Xiaochuang Han, Marjan Ghazvininejad, Pang Wei Koh, Yulia Tsvetkov",N/A,"Subjects:
+Computation and Language (cs.CL); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+"Title:
+          Efficient Data-Sketches and Fine-Tuning for Early Detection of Distributional Drift in Medical Imaging","Yusen Wu, Hao Chen, Alex Pissinou Makki, Phuong Nguyen, Yelena Yesha",N/A,"Subjects:
+Image and Video Processing (eess.IV); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+"Title:
+          Beyond Uniform Query Distribution: Key-Driven Grouped Query Attention","Zohaib Khan, Muhammad Khaquan, Omer Tafveez, Agha Ali Raza",N/A,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+"Title:
+          W-RAG: Weakly Supervised Dense Retrieval in RAG for Open-domain Question Answering","Jinming Nian, Zhiyuan Peng, Qifan Wang, Yi Fang",N/A,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Information Retrieval (cs.IR); Machine Learning (cs.LG)"
+"Title:
+          A semi-centralized multi-agent RL framework for efficient irrigation scheduling","Bernard T. Agyeman, Benjamin Decard-Nelson, Jinfeng Liu (University of Alberta), Sirish L. Shah",N/A,"Subjects:
+Systems and Control (eess.SY); Machine Learning (cs.LG)"
+"Title:
+          Predictive uncertainty estimation in deep learning for lung carcinoma classification in digital pathology under real dataset shifts","Abdur R. Fayjie, Jutika Borah, Florencia Carbone, Jan Tack, Patrick Vandewalle",N/A,"Subjects:
+Image and Video Processing (eess.IV); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+"Title:
+          Phononic materials with effectively scale-separated hierarchical features using interpretable machine learning","Mary V. Bastawrous, Zhi Chen, Alexander C. Ogren, Chiara Daraio, Cynthia Rudin, L. Catherine Brinson",N/A,"Subjects:
+Applied Physics (physics.app-ph); Machine Learning (cs.LG)"
+"Title:
+          Classification of High-dimensional Time Series in Spectral Domain using Explainable Features","Sarbojit Roy, Malik Shahid Sultan, Hernando Ombao",N/A,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG); Methodology (stat.ME)"
+"Title:
+          Pre-processing and Compression: Understanding Hidden Representation Refinement Across Imaging Domains via Intrinsic Dimension","Nicholas Konz, Maciej A. Mazurowski",N/A,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Image and Video Processing (eess.IV); Machine Learning (stat.ML)"
+"Title:
+          Towards Realistic Synthetic User-Generated Content: A Scaffolding Approach to Generating Online Discussions","Krisztian Balog, John Palowitch, Barbara Ikica, Filip Radlinski, Hamidreza Alvari, Mehdi Manshadi",N/A,"Subjects:
+Computation and Language (cs.CL); Information Retrieval (cs.IR); Machine Learning (cs.LG)"
+"Title:
+          Evaluating Text Classification Robustness to Part-of-Speech Adversarial Examples","Anahita Samadi, Allison Sullivan",N/A,"Subjects:
+Computation and Language (cs.CL); Machine Learning (cs.LG)"
+"Title:
+          Exploring Latent Space for Generating Peptide Analogs Using Protein Language Models","Po-Yu Liang, Xueting Huang, Tibo Duran, Andrew J. Wiemer, Jun Bai",N/A,"Subjects:
+Quantitative Methods (q-bio.QM); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          TurboEdit: Instant text-based image editing","Zongze Wu, Nicholas Kolkin, Jonathan Brandt, Richard Zhang, Eli Shechtman",N/A,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+"Title:
+          Unleash The Power of Pre-Trained Language Models for Irregularly Sampled Time Series","Weijia Zhang, Chenlong Yin, Hao Liu, Hui Xiong",N/A,"Subjects:
+Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Applications (stat.AP)"
+"Title:
+          SepAl: Sepsis Alerts On Low Power Wearables With Digital Biomarkers and On-Device Tiny Machine Learning","Marco Giordano, Kanika Dheman, Michele Magno",N/A,"Subjects:
+Tissues and Organs (q-bio.TO); Machine Learning (cs.LG)"
+"Title:
+          Can Large Language Models Understand Symbolic Graphics Programs?","Zeju Qiu, Weiyang Liu, Haiwen Feng, Zhen Liu, Tim Z. Xiao, Katherine M. Collins, Joshua B. Tenenbaum, Adrian Weller, Michael J. Black, Bernhard Schölkopf",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Computer Vision and Pattern Recognition (cs.CV)"
+"Title:
+          Understanding the Local Geometry of Generative Model Manifolds","Ahmed Imtiaz Humayun, Ibtihel Amara, Candice Schumann, Golnoosh Farnadi, Negar Rostamzadeh, Mohammad Havaei",N/A,"Subjects:
+Machine Learning (cs.LG); Computer Vision and Pattern Recognition (cs.CV)"
+"Title:
+          Absence of Closed-Form Descriptions for Gradient Flow in Two-Layer Narrow Networks",Yeachan Park,N/A,"Subjects:
+Machine Learning (cs.LG); Dynamical Systems (math.DS)"
+"Title:
+          BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts","Qizhen Zhang, Nikolas Gritsch, Dwaraknath Gnaneshwar, Simon Guo, David Cairuz, Bharat Venkitesh, Jakob Foerster, Phil Blunsom, Sebastian Ruder, Ahmet Ustun, Acyr Locatelli",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          GSVD-NMF: Recovering Missing Features in Non-negative Matrix Factorization","Youdong Guo, Timothy E. Holy",N/A,"Subjects:
+Machine Learning (cs.LG); Signal Processing (eess.SP)"
+"Title:
+          Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding","Xiner Li, Yulai Zhao, Chenyu Wang, Gabriele Scalia, Gokcen Eraslan, Surag Nair, Tommaso Biancalani, Aviv Regev, Sergey Levine, Masatoshi Uehara",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Genomics (q-bio.GN); Machine Learning (stat.ML)"
+"Title:
+          Enhancing Sharpness-Aware Minimization by Learning Perturbation Radius","Xuehao Wang, Weisen Jiang, Shuai Fu, Yu Zhang",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          RED-CT: A Systems Design Methodology for Using LLM-labeled Data to Train and Deploy Edge Classifiers for Computational Social Science","David Farr, Nico Manzonelli, Iain Cruickshank, Jevin West",N/A,"Subjects:
+Machine Learning (cs.LG); Social and Information Networks (cs.SI)"
+"Title:
+          Moving Healthcare AI-Support Systems for Visually Detectable Diseases onto Constrained Devices","Tess Watt, Christos Chrysoulas, Peter J Barclay",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)"
+"Title:
+          Federated Fairness Analytics: Quantifying Fairness in Federated Learning","Oscar Dilley, Juan Marcelo Parra-Ullauri, Rasheed Hussain, Dimitra Simeonidou",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Distributed, Parallel, and Cluster Computing (cs.DC); Computer Science and Game Theory (cs.GT); Neural and Evolutionary Computing (cs.NE)"
+"Title:
+          Does Reasoning Emerge? Examining the Probabilities of Causation in Large Language Models","Javier González, Aditya V. Nori",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Stochastic Semi-Gradient Descent for Learning Mean Field Games with Population-Aware Function Approximation","Chenyu Zhang, Xu Chen, Xuan Di",N/A,"Subjects:
+Machine Learning (cs.LG); Computer Science and Game Theory (cs.GT); Multiagent Systems (cs.MA); Optimization and Control (math.OC)"
+"Title:
+          Machine learning empowered Modulation detection for OFDM-based signals","Ali Pourranjbar, Georges Kaddoum, Verdier Assoume Mba, Sahil Garg, Satinder Singh",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Impact of Comprehensive Data Preprocessing on Predictive Modelling of COVID-19 Mortality","Sangita Das, Subhrajyoti Maji",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Normalized AOPC: Fixing Misleading Faithfulness Metrics for Feature Attribution Explainability","Joakim Edin, Andreas Geert Motzfeldt, Casper L. Christensen, Tuukka Ruotsalo, Lars Maaløe, Maria Maistro",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          EXPLAIN, AGREE, LEARN: Scaling Learning for Neural Probabilistic Logic","Victor Verreet, Lennert De Smet, Luc De Raedt, Emanuele Sansone",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          The Unreasonable Effectiveness of Solving Inverse Problems with Neural Networks","Philipp Holl, Nils Thuerey",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Hearing Your Blood Sugar: Non-Invasive Glucose Measurement Through Simple Vocal Signals, Transforming any Speech into a Sensor with Machine Learning","Nihat Ahmadli, Mehmet Ali Sarsil, Onur Ergen",N/A,"Subjects:
+Machine Learning (cs.LG); Sound (cs.SD); Audio and Speech Processing (eess.AS)"
+"Title:
+          Adaptation of uncertainty-penalized Bayesian information criterion for parametric partial differential equation discovery","Pongpisit Thanasutives, Ken-ichi Fukui",N/A,"Subjects:
+Machine Learning (cs.LG); Numerical Analysis (math.NA)"
+"Title:
+          An Efficient Replay for Class-Incremental Learning with Pre-trained Models","Weimin Yin, Bin Chen adn Chunzhao Xie, Zhenhao Tan",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          Independent Policy Mirror Descent for Markov Potential Games: Scaling to Large Number of Players","Pragnya Alatur, Anas Barakat, Niao He",N/A,"Subjects:
+Machine Learning (cs.LG); Computer Science and Game Theory (cs.GT); Multiagent Systems (cs.MA)"
+"Title:
+          Universality of Real Minimal Complexity Reservoir","Robert Simon Fong, Boyu Li, Peter Tiňo",N/A,"Subjects:
+Machine Learning (cs.LG); Neural and Evolutionary Computing (cs.NE)"
+"Title:
+          Maximally Permissive Reward Machines","Giovanni Varricchione, Natasha Alechina, Mehdi Dastani, Brian Logan",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          DATTA: Towards Diversity Adaptive Test-Time Adaptation in Dynamic Wild World","Chuyang Ye, Dongyan Wei, Zhendong Liu, Yuanyi Pang, Yixi Lin, Jiarong Liao, Qinting Jiang, Xianghua Fu, Qing Li, Jingyan Jiang",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          COTODE: COntinuous Trajectory neural Ordinary Differential Equations for modelling event sequences","Ilya Kuleshov, Galina Boeva, Vladislav Zhuzhel, Evgenia Romanenkova, Evgeni Vorsin, Alexey Zaytsev",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          An Efficient Continuous Control Perspective for Reinforcement-Learning-based Sequential Recommendation","Jun Wang, Likang Wu, Qi Liu, Yu Yang",N/A,"Subjects:
+Machine Learning (cs.LG); Information Retrieval (cs.IR)"
+"Title:
+          The Clever Hans Effect in Unsupervised Learning","Jacob Kauffmann, Jonas Dippel, Lukas Ruff, Wojciech Samek, Klaus-Robert Müller, Grégoire Montavon",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)"
+"Title:
+          Adaptive User Journeys in Pharma E-Commerce with Reinforcement Learning: Insights from SwipeRx","Ana Fernández del Río, Michael Brennan Leong, Paulo Saraiva, Ivan Nazarov, Aditya Rastogi, Moiz Hassan, Dexian Tang, África Periáñez",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Machine Learning (stat.ML)"
+"Title:
+          Causal Discovery from Time-Series Data with Short-Term Invariance-Based Convolutional Neural Networks","Rujia Shen, Boran Wang, Chao Zhao, Yi Guan, Jingchi Jiang",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          Inversion-DeepONet: A Novel DeepONet-Based Network with Encoder-Decoder for Full Waveform Inversion","Zekai Guo, Lihui Chai, Shengjun Huang, Ye Li",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Experimental evaluation of offline reinforcement learning for HVAC control in buildings","Jun Wang, Linyan Li, Qi Liu, Yu Yang",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Analytical Uncertainty-Based Loss Weighting in Multi-Task Learning","Lukas Kirchdorfer, Cathrin Elich, Simon Kutsche, Heiner Stuckenschmidt, Lukas Schott, Jan M. Köhler",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV)"
+"Title:
+          Addressing Skewed Heterogeneity via Federated Prototype Rectification with Personalization","Shunxin Guo, Hongsong Wang, Shuxia Lin, Zhiqiang Kou, Xin Geng",N/A,"Subjects:
+Machine Learning (cs.LG); Distributed, Parallel, and Cluster Computing (cs.DC)"
+"Title:
+          Meta SAC-Lag: Towards Deployable Safe Reinforcement Learning via MetaGradient-based Hyperparameter Tuning","Homayoun Honari, Amir Mehdi Soufi Enayati, Mehran Ghafarian Tamizi, Homayoun Najjaran",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Robotics (cs.RO); Systems and Control (eess.SY)"
+"Title:
+          RandomNet: Clustering Time Series Using Untrained Deep Neural Networks","Xiaosheng Li, Wenjie Xi, Jessica Lin",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          A Single Channel-Based Neonatal Sleep-Wake Classification using Hjorth Parameters and Improved Gradient Boosting","Muhammad Arslan, Muhammad Mubeen, Saadullah Farooq Abbasi, Muhammad Shahbaz Khan, Wadii Boulila, Jawad Ahmad",N/A,"Subjects:
+Machine Learning (cs.LG); Signal Processing (eess.SP)"
+"Title:
+          Physics-Informed Neural Network for Predicting Out-of-Training-Range TCAD Solution with Minimized Domain Expertise","Albert Lu, Yu Foon Chau, Hiu Yung Wong",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          CEGRL-TKGR: A Causal Enhanced Graph Representation Learning Framework for Improving Temporal Knowledge Graph Extrapolation Reasoning","Jinze Sun, Yongpan Sheng, Lirong He",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          KAN versus MLP on Irregular or Noisy Functions","Chen Zeng, Jiahui Wang, Haoran Shen, Qiao Wang",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Neural and Evolutionary Computing (cs.NE); Numerical Analysis (math.NA)"
+"Title:
+          The Nah Bandit: Modeling User Non-compliance in Recommendation Systems","Tianyue Zhou, Jung-Hoon Cho, Cathy Wu",N/A,"Subjects:
+Machine Learning (cs.LG); Information Retrieval (cs.IR); Multiagent Systems (cs.MA); Systems and Control (eess.SY)"
+"Title:
+          Incremental Structure Discovery of Classification via Sequential Monte Carlo","Changze Huang, Di Wang",N/A,"Subjects:
+Machine Learning (cs.LG); Machine Learning (stat.ML)"
+"Title:
+          A Systematic Evaluation of Generated Time Series and Their Effects in Self-Supervised Pretraining","Audrey Der, Chin-Chia Michael Yeh, Xin Dai, Huiyuan Chen, Yan Zheng, Yujie Fan, Zhongfang Zhuang, Vivian Lai, Junpeng Wang, Liang Wang, Wei Zhang, Eamonn Keogh",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Enhancing Equitable Access to AI in Housing and Homelessness System of Care through Federated Learning","Musa Taib, Jiajun Wu, Steve Drew, Geoffrey G. Messier",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computers and Society (cs.CY)"
+"Title:
+          SustainDC -- Benchmarking for Sustainable Data Center Control","Avisek Naug, Antonio Guillen, Ricardo Luna, Vineet Gundecha, Desik Rengarajan, Sahand Ghorbanpour, Sajad Mousavi, Ashwin Ramesh Babu, Dejan Markovikj, Lekhapriya D Kashyap, Soumyendu Sarkar",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Systems and Control (eess.SY)"
+"Title:
+          Differentiating Policies for Non-Myopic Bayesian Optimization","Darian Nwankwo, David Bindel",N/A,"Subjects:
+Machine Learning (cs.LG); Machine Learning (stat.ML)"
+"Title:
+          Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference","Rohan Baskar Prabhakar, Hengrui Zhang, David Wentlzaff",N/A,"Subjects:
+Machine Learning (cs.LG); Distributed, Parallel, and Cluster Computing (cs.DC)"
+"Title:
+          MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis","Nimeesha Chan, Felix Parker, William Bennett, Tianyi Wu, Mung Yao Jia, James Fackler, Kimia Ghobadi",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Out-of-Distribution Learning with Human Feedback","Haoyue Bai, Xuefeng Du, Katie Rainey, Shibin Parameswaran, Yixuan Li",N/A,"Subjects:
+Machine Learning (cs.LG); Machine Learning (stat.ML)"
+"Title:
+          How to Solve Contextual Goal-Oriented Problems with Offline Datasets?","Ying Fan, Jingling Li, Adith Swaminathan, Aditya Modi, Ching-An Cheng",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Enhancing Model Interpretability with Local Attribution over Global Exploration","Zhiyu Zhu, Zhibo Jin, Jiayu Zhang, Huaming Chen",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          Enhancing Adversarial Attacks via Parameter Adaptive Adversarial Attack","Zhibo Jin, Jiayu Zhang, Zhiyu Zhu, Chenyu Zhang, Jiahao Huang, Jianlong Zhou, Fang Chen",N/A,"Subjects:
+Machine Learning (cs.LG); Cryptography and Security (cs.CR)"
+"Title:
+          Graph neural network surrogate for strategic transport planning","Nikita Makarov, Santhanakrishnan Narayanan, Constantinos Antoniou",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          ""Normalized Stress"" is Not Normalized: How to Interpret Stress Correctly","Kiran Smelser, Jacob Miller, Stephen Kobourov",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Operator Feature Neural Network for Symbolic Regression","Yusong Deng, Min Wu, Lina Yu, Jingyi Liu, Shu Wei, Yanjie Li, Weijun Li",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          Impact of Inaccurate Contamination Ratio on Robust Unsupervised Anomaly Detection","Jordan F. Masakuna, DJeff Kanda Nkashama, Arian Soltani, Marc Frappier, Pierre-Martin Tardif, Froduald Kabanza",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI)"
+"Title:
+          Benchmarking the Capabilities of Large Language Models in Transportation System Engineering: Accuracy, Consistency, and Reasoning Behaviors","Usman Syed, Ethan Light, Xingang Guo, Huan Zhang, Lianhui Qin, Yanfeng Ouyang, Bin Hu",N/A,"Subjects:
+Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Machine Learning (cs.LG)"
+"Title:
+          HELP: Hierarchical Embeddings-based Log Parsing","Andy Xu, Arno Gau",N/A,"Subjects:
+Software Engineering (cs.SE); Machine Learning (cs.LG)"
+"Title:
+          SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training","Gengwei Zhang, Liyuan Wang, Guoliang Kang, Ling Chen, Yunchao Wei",N/A,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          Aliasing and Label-Independent Decomposition of Risk: Beyond the bias-variance trade-off","Mark K. Transtrum, Gus L. W. Hart, Tyler J. Jarvis, Jared P. Whitehead",N/A,"Subjects:
+Statistics Theory (math.ST); Machine Learning (cs.LG); Mathematical Physics (math-ph); Machine Learning (stat.ML)"
+"Title:
+          Accurate and efficient structure elucidation from routine one-dimensional NMR spectra using multitask machine learning","Frank Hu, Michael S. Chen, Grant M. Rotskoff, Matthew W. Kanan, Thomas E. Markland",N/A,"Subjects:
+Chemical Physics (physics.chem-ph); Machine Learning (cs.LG)"
+"Title:
+          Autonomous Behavior Planning For Humanoid Loco-manipulation Through Grounded Language Model","Jin Wang, Arturo Laurenzi, Nikos Tsagarakis",N/A,"Subjects:
+Robotics (cs.RO); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          Is Knowledge Power? On the (Im)possibility of Learning from Strategic Interaction","Nivasini Ananthakrishnan, Nika Haghtalab, Chara Podimata, Kunhe Yang",N/A,"Subjects:
+Computer Science and Game Theory (cs.GT); Machine Learning (cs.LG)"
+"Title:
+          InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models","Guoxiang Grayson Tong, Carlos A. Sing Long, Daniele E. Schiavazzi",N/A,"Subjects:
+Numerical Analysis (math.NA); Artificial Intelligence (cs.AI); Computational Engineering, Finance, and Science (cs.CE); Machine Learning (cs.LG)"
+"Title:
+          Snuffy: Efficient Whole Slide Image Classifier","Hossein Jafarinia, Alireza Alipanah, Danial Hamdi, Saeed Razavi, Nahal Mirzaie, Mohammad Hossein Rohban",N/A,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Neural and Evolutionary Computing (cs.NE); Image and Video Processing (eess.IV)"
+"Title:
+          A Conflicts-free, Speed-lossless KAN-based Reinforcement Learning Decision System for Interactive Driving in Roundabouts","Zhihao Lin, Zhen Tian, Qi Zhang, Ziyang Ye, Hanyang Zhuang, Jianglin Lan",N/A,"Subjects:
+Robotics (cs.RO); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Systems and Control (eess.SY)"
+"Title:
+          The Z-Gromov-Wasserstein Distance","Martin Bauer, Facundo Mémoli, Tom Needham, Mao Nishino",N/A,"Subjects:
+Metric Geometry (math.MG); Machine Learning (cs.LG)"
+"Title:
+          Explaining an Agent's Future Beliefs through Temporally Decomposing Future Reward Estimators","Mark Towers, Yali Du, Christopher Freeman, Timothy J. Norman",N/A,"Subjects:
+Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          Data-driven identification of latent port-Hamiltonian systems","Johannes Rettberg, Jonas Kneifl, Julius Herb, Patrick Buchfink, Jörg Fehr, Bernard Haasdonk",N/A,"Subjects:
+Dynamical Systems (math.DS); Machine Learning (cs.LG)"
+"Title:
+          Not Every Image is Worth a Thousand Words: Quantifying Originality in Stable Diffusion","Adi Haviv, Shahar Sarfaty, Uri Hacohen, Niva Elkin-Koren, Roi Livni, Amit H Bermano",N/A,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+"Title:
+          Towards flexible perception with visual memory","Robert Geirhos, Priyank Jaini, Austin Stone, Sourabh Medapati, Xi Yi, George Toderici, Abhijit Ogale, Jonathon Shlens",N/A,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search","Huajian Xin, Z.Z. Ren, Junxiao Song, Zhihong Shao, Wanjia Zhao, Haocheng Wang, Bo Liu, Liyue Zhang, Xuan Lu, Qiushi Du, Wenjun Gao, Qihao Zhu, Dejian Yang, Zhibin Gou, Z.F. Wu, Fuli Luo, Chong Ruan",N/A,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Logic in Computer Science (cs.LO)"
+"Title:
+          P/D-Serve: Serving Disaggregated Large Language Model at Scale","Yibo Jin, Tao Wang, Huimin Lin, Mingyang Song, Peiyang Li, Yipeng Ma, Yicheng Shan, Zhengfan Yuan, Cailong Li, Yajing Sun, Tiandeng Wu, Xing Chu, Ruizhi Huan, Li Ma, Xiao You, Wenting Zhou, Yunpeng Ye, Wen Liu, Xiangkun Xu, Yongsheng Zhang, Tiantian Dong, Jiawei Zhu, Zhe Wang, Xijian Ju, Jianxun Song, Haoliang Cheng, Xiaojing Li, Jiandong Ding, Hefei Guo, Zhengyong Zhang",N/A,"Subjects:
+Distributed, Parallel, and Cluster Computing (cs.DC); Computation and Language (cs.CL); Machine Learning (cs.LG)"
+"Title:
+          Learned denoising with simulated and experimental low-dose CT data","Maximilian B. Kiss, Ander Biguri, Carola-Bibiane Schönlieb, K. Joost Batenburg, Felix Lucka",N/A,"Subjects:
+Image and Video Processing (eess.IV); Machine Learning (cs.LG)"
+"Title:
+          A Survey on Integrated Sensing, Communication, and Computation","Dingzhu Wen, Yong Zhou, Xiaoyang Li, Yuanming Shi, Kaibin Huang, Khaled B. Letaief",N/A,"Subjects:
+Information Theory (cs.IT); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Signal Processing (eess.SP)"
+"Title:
+          Extracting Sentence Embeddings from Pretrained Transformer Models","Lukas Stankevičius, Mantas Lukoševičius",N/A,"Subjects:
+Computation and Language (cs.CL); Information Retrieval (cs.IR); Machine Learning (cs.LG); Machine Learning (stat.ML)"
+"Title:
+          BINDy -- Bayesian identification of nonlinear dynamics with reversible-jump Markov-chain Monte-Carlo","Max D. Champneys, Timothy J. Rogers",N/A,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG); Dynamical Systems (math.DS)"
+"Title:
+          Navigating Data Scarcity using Foundation Models: A Benchmark of Few-Shot and Zero-Shot Learning Approaches in Medical Imaging","Stefano Woerner, Christian F. Baumgartner",N/A,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization","Sang-Hoon Lee, Ha-Yeong Choi, Seong-Whan Lee",N/A,"Subjects:
+Sound (cs.SD); Artificial Intelligence (cs.AI); Machine Learning (cs.LG); Audio and Speech Processing (eess.AS); Signal Processing (eess.SP)"
+"Title:
+          Asteroid: Resource-Efficient Hybrid Pipeline Parallelism for Collaborative DNN Training on Heterogeneous Edge Devices","Shengyuan Ye, Liekang Zeng, Xiaowen Chu, Guoliang Xing, Xu Chen",N/A,"Subjects:
+Distributed, Parallel, and Cluster Computing (cs.DC); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG); Networking and Internet Architecture (cs.NI)"
+"Title:
+          Hessian QM9: A quantum chemistry database of molecular Hessians in implicit solvents","Nicholas J. Williams, Lara Kabalan, Ljiljana Stojanovic, Viktor Zolyomi, Edward O. Pyzer-Knapp",N/A,"Subjects:
+Chemical Physics (physics.chem-ph); Machine Learning (cs.LG)"
+"Title:
+          Coupling without Communication and Drafter-Invariant Speculative Decoding","Majid Daliri, Christopher Musco, Ananda Theertha Suresh",N/A,"Subjects:
+Data Structures and Algorithms (cs.DS); Computation and Language (cs.CL); Machine Learning (cs.LG)"
+"Title:
+          Robust Offline Active Learning on Graphs","Yuanchen Wu, Yubai Yuan",N/A,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG)"
+"Title:
+          MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion","Lucas Nedel Kirsten, Zhicheng Fu, Nikhil Ambha Madhusudhana",N/A,"Subjects:
+Image and Video Processing (eess.IV); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+"Title:
+          A Deep Features-Based Approach Using Modified ResNet50 and Gradient Boosting for Visual Sentiments Classification","Muhammad Arslan, Muhammad Mubeen, Arslan Akram, Saadullah Farooq Abbasi, Muhammad Salman Ali, Muhammad Usman Tariq",N/A,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+"Title:
+          System States Forecasting of Microservices with Dynamic Spatio-Temporal Data","Yifei Xu, Jingguo Ge, Haina Tang, Shuai Ding, Tong Li, Hui Li",N/A,"Subjects:
+Networking and Internet Architecture (cs.NI); Machine Learning (cs.LG)"
+"Title:
+          Quantum-inspired Interpretable Deep Learning Architecture for Text Sentiment Analysis","Bingyu Li, Da Zhang, Zhiyuan Zhao, Junyu Gao, Yuan Yuan",N/A,"Subjects:
+Computer Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          Local Causal Discovery with Background Knowledge","Qingyuan Zheng, Yue Liu, Yangbo He",N/A,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG)"
+"Title:
+          IReCa: Intrinsic Reward-enhanced Context-aware Reinforcement Learning for Human-AI Coordination","Xin Hao, Bahareh Nakisa, Mohmmad Naim Rastgoo, Richard Dazeley",N/A,"Subjects:
+Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          Capturing the Complexity of Human Strategic Decision-Making with Machine Learning","Jian-Qiao Zhu, Joshua C. Peterson, Benjamin Enke, Thomas L. Griffiths",N/A,"Subjects:
+General Economics (econ.GN); Computer Science and Game Theory (cs.GT); Machine Learning (cs.LG)"
+"Title:
+          CON-FOLD -- Explainable Machine Learning with Confidence","Lachlan McGinness, Peter Baumgartner",N/A,"Subjects:
+Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability","Jiri Hron, Laura Culp, Gamaleldin Elsayed, Rosanne Liu, Ben Adlam, Maxwell Bileschi, Bernd Bohnet, JD Co-Reyes, Noah Fiedel, C. Daniel Freeman, Izzeddin Gur, Kathleen Kenealy, Jaehoon Lee, Peter J. Liu, Gaurav Mishra, Igor Mordatch, Azade Nova, Roman Novak, Aaron Parisi, Jeffrey Pennington, Alex Rizkowsky, Isabelle Simpson, Hanie Sedghi, Jascha Sohl-dickstein, Kevin Swersky, Sharad Vikram, Tris Warkentin, Lechao Xiao, Kelvin Xu, Jasper Snoek, Simon Kornblith",N/A,"Subjects:
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          Time-inversion of spatiotemporal beam dynamics using uncertainty-aware latent evolution reversal","Mahindra Rautela, Alan Williams, Alexander Scheinker",N/A,"Subjects:
+Accelerator Physics (physics.acc-ph); Machine Learning (cs.LG)"
+"Title:
+          CarbonClipper: Optimal Algorithms for Carbon-Aware Spatiotemporal Workload Management","Adam Lechowicz, Nicolas Christianson, Bo Sun, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy",N/A,"Subjects:
+Data Structures and Algorithms (cs.DS); Distributed, Parallel, and Cluster Computing (cs.DC); Machine Learning (cs.LG)"
+"Title:
+          Exploration of LLMs, EEG, and behavioral data to measure and support attention and sleep","Akane Sano, Judith Amores, Mary Czerwinski",N/A,"Subjects:
+Signal Processing (eess.SP); Artificial Intelligence (cs.AI); Human-Computer Interaction (cs.HC); Machine Learning (cs.LG)"
+"Title:
+          Regularized Contrastive Partial Multi-view Outlier Detection","Yijia Wang, Qianqian Xu, Yangbangyan Jiang, Siran Dai, Qingming Huang",N/A,"Subjects:
+Multimedia (cs.MM); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+"Title:
+          Ranking and Combining Latent Structured Predictive Scores without Labeled Data","Shiva Afshar, Yinghan Chen, Shizhong Han, Ying Lin",N/A,"Subjects:
+Machine Learning (stat.ML); Machine Learning (cs.LG); Applications (stat.AP)"
+"Title:
+          An Efficient and Explanatory Image and Text Clustering System with Multimodal Autoencoder Architecture","Tiancheng Shi, Yuanchen Wei, John R. Kender",N/A,"Subjects:
+Multimedia (cs.MM); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+"Title:
+          Knowledge-based Neural Ordinary Differential Equations for Cosserat Rod-based Soft Robots","Tom Z. Jiahao, Ryan Adolf, Cynthia Sung, M. Ani Hsieh",N/A,"Subjects:
+Robotics (cs.RO); Machine Learning (cs.LG)"
+"Title:
+          Data Clustering and Visualization with Recursive Goemans-Williamson MaxCut Algorithm","An Ly, Raj Sawhney, Marina Chugunova",N/A,"Subjects:
+Optimization and Control (math.OC); Machine Learning (cs.LG)"
+"Title:
+          An Introduction to Reinforcement Learning: Fundamental Concepts and Practical Applications","Majid Ghasemi, Amir Hossein Moosavi, Ibrahim Sorkhoh, Anjali Agrawal, Fadi Alzhouri, Dariush Ebrahimi",N/A,"Subjects:
+Artificial Intelligence (cs.AI); Machine Learning (cs.LG)"
+"Title:
+          Pretrained-Guided Conditional Diffusion Models for Microbiome Data Analysis","Xinyuan Shi, Fangfang Zhu, Wenwen Min",N/A,"Subjects:
+Genomics (q-bio.GN); Machine Learning (cs.LG)"
+"Title:
+          A Guide to Similarity Measures","Avivit Levy, B. Riva Shalom, Michal Chalamish",N/A,"Subjects:
+Information Retrieval (cs.IR); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG)"
+"Title:
+          Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data","Xia Jiang, Yijun Zhou, Chuhan Xu, Adam Brufsky, Alan Wells",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Neural and Evolutionary Computing (cs.NE); Quantitative Methods (q-bio.QM)"
+"Title:
+          Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities","Enneng Yang, Li Shen, Guibing Guo, Xingwei Wang, Xiaochun Cao, Jie Zhang, Dacheng Tao",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Computer Vision and Pattern Recognition (cs.CV)"
+"Title:
+          Interpretable Graph Neural Networks for Heterogeneous Tabular Data","Amr Alkhatib, Henrik Boström",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Graph Triple Attention Network: A Decoupled Perspective","Xiaotang Wang, Yun Zhu, Haizhou Shi, Yongchao Liu, Chuntao Hong",N/A,"Subjects:
+Machine Learning (cs.LG)"
+"Title:
+          Adaptive Behavioral AI: Reinforcement Learning to Enhance Pharmacy Services","Ana Fernández del Río, Michael Brennan Leong, Paulo Saraiva, Ivan Nazarov, Aditya Rastogi, Moiz Hassan, Dexian Tang, África Periáñez",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computers and Society (cs.CY); Data Analysis, Statistics and Probability (physics.data-an)"
+"Title:
+          Optimizing HIV Patient Engagement with Reinforcement Learning in Resource-Limited Settings","África Periáñez, Kathrin Schmitz, Lazola Makhupula, Moiz Hassan, Moeti Moleko, Ana Fernández del Río, Ivan Nazarov, Aditya Rastogi, Dexian Tang",N/A,"Subjects:
+Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computers and Society (cs.CY)"

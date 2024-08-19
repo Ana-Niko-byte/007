@@ -82,13 +82,21 @@ chat_manager = autogen.GroupChatManager(
     llm_config=llm_config
 )
 
-try:
-    user_proxy.initiate_chat(
-        chat_manager,
-        message="""
-        Find papers on LLM applications from arxiv in the last week, create a
-        markdown table of different domains.
-        """
-    )
-except Exception as e:
-    print(f'An error occurred while initiating chat: {e}')
+def main():
+    """
+        Initiates chatmanager with prompt.
+    """
+    try:
+        user_proxy.initiate_chat(
+            chat_manager,
+            message="""
+            Find papers on LLM applications from arxiv in the last week, create a
+            markdown table of different domains.
+            """
+        )
+    except Exception as e:
+        print(f'An error occurred while initiating chat: {e}')
+        return
+
+if __name__ == "__main__":
+    main()
