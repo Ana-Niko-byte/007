@@ -5,7 +5,7 @@ api_key = os.environ.get("API_KEY", "")
 if not api_key:
     print("Could not find api_key. Are you sure you have it set?")
 
-# Acquire information for Autogen configuration from the .env file.
+# Information for Autogen configuration.
 config_list = [
     {
         "model": "gpt-3.5-turbo",

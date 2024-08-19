@@ -5,7 +5,7 @@ import os
 
 def main():
     """
-    Retrieves relevant .json file + API_KEY.
+    Retrieves relevant .json file + sets API_KEY.
     Initiates two Autogen Class agents - assistant & proxy.
     Initiates chat with prompt.
     """
