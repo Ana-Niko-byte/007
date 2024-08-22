@@ -34,7 +34,6 @@ def main():
         for config in config_list:
             if "api_key" in config and config["api_key"] == "${API_KEY}":
                 config["api_key"] = os.getenv("API_KEY", "")
-                print(config["api_key"])
                 if not config["api_key"]:
                     print(
                         "Could not find api_key. Are you sure you have it set?"
